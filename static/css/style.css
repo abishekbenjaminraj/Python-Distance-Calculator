@@ -1,0 +1,61 @@
+.image{
+    position: relative;
+}
+
+.dis{
+    position: absolute;
+    top: 1px;
+    left: 39%;
+    font-size: 40px;
+}
+.quotes{
+    position: absolute;
+    top: 16%;
+    left: 40%;
+    font-size: 30px;
+    text-align: center;
+    color: darkred;
+}
+
+span{
+    font-size: 40px;
+    color: white;
+}
+
+.city1{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    color: white;
+    padding: 10px 5px;
+    font-size: 20px;
+    background-color: black;
+}
+
+.city2{
+    position: absolute;
+    top: 65%;
+    left: 69%;
+    color: white;
+    padding: 10px 5px;
+    font-size: 20px;
+    background-color: black;
+}
+
+.submit{
+    position: absolute;
+    top: 73%;
+    left: 47.6%;
+    color: white;
+    padding: 7px 20px;
+    font-size: 20px;
+    background-color: brown;
+}
+
+.jinja{
+    position: absolute;
+    top: 80%;
+    left: 35%;
+    color: black;
+    font-size: 30px;
+}
